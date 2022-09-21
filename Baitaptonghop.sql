@@ -1,5 +1,5 @@
-create database excercise1;
-use excercise1;
+create database baitaptonghop;
+use baitaptonghop;
 create table students
 (
     id int primary key auto_increment,
